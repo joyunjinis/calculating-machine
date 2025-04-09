@@ -75,7 +75,7 @@ function calculate() {
 }
 
 // 초기화
-function ac() {
+function ce() {
   currentInput = "";
   previousInput = "";
   operation = null;
