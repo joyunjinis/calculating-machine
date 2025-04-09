@@ -36,6 +36,7 @@ input {
   margin-bottom: 5px;
   border-radius: 16px;
   border: 1px solid #b8d7ff;
+  text-align: right;
 }
 
 .last-row {
